@@ -5,12 +5,12 @@
 		<surnia>
 			<!-- Here is placed the latest ROM build, example: People are in the 0223 and you made a 0226 build
 			so, in that case, put the name of the newer file and it'll notify the users about a new update -->
-			<Filename>BootleggersROM-Oreo4surnia.2.0-BETA-Unshishufied-20180223.zip</Filename>
+			<Filename>BootleggersROM-Oreo4lettuce.2.0-BETA-Unshishufied-20180224.zip</Filename>
 			<!-- In this section, all the titles and description are empty because there are strings to set 
 			in there so, it's not required -->
 
 			<!-- Here goes your ROM update link -->
-			<RomUrl id="rom" title="" description="">https://google.se</RomUrl>
+			<RomUrl id="rom" title="" description="">https://sourceforge.net/projects/newlettuce/files/BootleggersROM-Oreo4lettuce.2.0-BETA-Unshishufied-20180224.zip/download</RomUrl>
 
 			<!-- Here goes a ROM mirror just in case, you can nuke this but welp, we suggest you that you add a mirror just in case people complain about speed/download not working -->
 			<RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">https://google.se</RomMirrorUrl>
